@@ -135,8 +135,6 @@ The following charts present the key findings from the exploratory data analysis
 
 ### 11. Top 5 and Bottom 5 States by Sales
 
-### 11. Top 5 and Bottom 5 States by Sales
-
 ![Top 5 and Bottom 5 States by Sales](visuals/Top%285%29%20and%20Bottom%285%29%20States%20by%20Sales.png)
 
 ## Key Business Insights
