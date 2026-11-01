@@ -135,7 +135,7 @@ The following charts present the key findings from the exploratory data analysis
 
 ### 11. Top 5 and Bottom 5 States by Sales
 
-![Top 5
+![Top 5 and Bottom 5 States by Sales].(visuals/Top(5)%20and%20Bottom(5)%20States%20by Sales)
 ## Key Business Insights
 
 1. Technology is the highest revenue-generating product category and serves as a key business revenue driver.
