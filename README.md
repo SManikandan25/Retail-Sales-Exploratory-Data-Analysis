@@ -72,20 +72,70 @@ The dataset contains retail order and sales information.
 
 Created 11 visualisations using Matplotlib and Seaborn to identify patterns and communicate business findings.
 
-## Visualisations & Analysis
+---
 
-1. Day-Wise Sales Analysis
-2. Monthly Sales Trend
-3. Region vs Category Sales
-4. Region-Wise Sales Analysis
-5. Sales by Category
-6. Sales Distribution
-7. Segment vs Category Analysis
-8. Segment-Wise Sales Analysis
-9. Top 10 Cities by Sales
-10. Sub-Category-Wise Sales Analysis
-11. Top 5 and Bottom 5 States by Sales
+## Visualisations & Business Insights
 
+The following charts present the key findings from the exploratory data analysis.
+
+### 1. Day-Wise Sales Analysis
+
+![Day-Wise Sales Analysis](visuals/Day-Wise%20Sales%20Analysis.png)
+
+
+### 2. Monthly Sales Trend
+
+![Monthly Sales Trend](visuals/Monthly%20Sales%20Trend.png)
+
+
+### 3. Region vs Category Sales
+
+![Region Vs Category Sales](visuals/Region%20Vs%20Category%20Sales.png)
+
+
+### 4. Region-Wise Sales Analysis
+
+![Region Wise Sales Analysis](visuals/Region%20Wise%20Sales%20Analysis.png)
+
+
+
+### 5. Sales by Category
+
+![Sales by Category](visuals/Sales_by_Category.png)
+
+
+
+### 6. Sales Distribution
+
+![Sales Distribution](visuals/sales_distribution.png)
+
+
+
+### 7. Segment vs Category Analysis
+
+![Segment Vs Category](visuals/Segment%20Vs%20Category.png)
+
+
+
+### 8. Segment-Wise Sales Analysis
+
+![Segment Wise Sales Analysis](visuals/Segment%20Wise%20Sales%20Analysis.png)
+
+
+
+### 9. Top 10 Cities by Sales
+
+![Top 10 Cities by Sales](visuals/Top%2010%20Cities%20by%20Sales.png)
+
+
+### 10. Sub-Category-Wise Sales Analysis
+
+![Sub-Category Wise Sales Analysis](visuals/Sub-Category%20Wise%20Sales%20Analysis.png)
+
+
+### 11. Top 5 and Bottom 5 States by Sales
+
+![Top 5
 ## Key Business Insights
 
 1. Technology is the highest revenue-generating product category and serves as a key business revenue driver.
