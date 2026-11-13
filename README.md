@@ -1,4 +1,4 @@
-# Retail Sales Analytics & Executive Dashboard
+# Retail Sales Analysis 
 
 ## Project Overview
 
